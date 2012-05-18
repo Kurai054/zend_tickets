@@ -3,4 +3,4 @@ Petit outil permettant de gérer des tickets :
 -commentaires
 -ouvrir/fermer le ticket
 
-Même chose qu'un blog, utilise Zend framework et doctrine pour la partie couche d'acces aux données
+Même chose qu'un blog, utilise Zend Framework et Doctrine pour la partie couche d'accès aux données
